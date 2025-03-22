@@ -1,2 +1,0 @@
-D:/LearnDevAndroid/BaiTap_Mobile/baitap_tuan3_bai2/android/app/.cxx/Debug/684q2k1d/x86_64/CMakeFiles/edit_cache.dir
-D:/LearnDevAndroid/BaiTap_Mobile/baitap_tuan3_bai2/android/app/.cxx/Debug/684q2k1d/x86_64/CMakeFiles/rebuild_cache.dir
